@@ -3,10 +3,6 @@ from os import system
 from time import sleep
 import pandas as pd
 
-#writer = turtle.Turtle(visible=False)
-#writer.speed(0)
-#writer.penup()
-#writer.goto(-400,-80)
 outcomes = []
 final_outcome = []
 

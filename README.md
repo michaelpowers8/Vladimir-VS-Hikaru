@@ -55,4 +55,4 @@ To add just a little bit more math, each simulated match is 25,000 games, and th
  - Exploratory Data Analysis:
    - This section includes all the analytical and graphical analysis performed on the spreadsheet. Everything explained in this section will be regarding scenarios in the dataset, and may not apply to what really happened
    - Analytical Analysis
-     - The first thing found is
+     - When looking at Hikaru's score, his lowest score achieved out of 13,878. This accounts for 55.5% of the points meaning that even when Hikaru had his worst performance, he still has more wins than losses. At his lowest, scores, his winning streaks went as high as 10 wins in a row. That may be a long way from 40, or 45, or 55, but this shows that Hikaru is likely to go on winning streaks often. Hikaru's median score was 21,158 out of 25,000 which accounts for 84.6% of the points.

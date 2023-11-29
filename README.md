@@ -52,3 +52,7 @@ To add just a little bit more math, each simulated match is 25,000 games, and th
       - Small Outliers
       - Standard Deviation
       - Variance
+ - Exploratory Data Analysis:
+   - This section includes all the analytical and graphical analysis performed on the spreadsheet. Everything explained in this section will be regarding scenarios in the dataset, and may not apply to what really happened
+   - Analytical Analysis
+     - The first thing found is

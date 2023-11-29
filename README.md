@@ -39,3 +39,16 @@ To add just a little bit more math, each simulated match is 25,000 games, and th
     - Mean Absolute Error
     - Median Absolute Error
     - R2 Score
+  - The full_stats function is a way to display several stats about the numerical data in a more organized way
+    - Statistics included in the function are the following:
+      - Minimum
+      - Lower Quartile
+      - Median
+      - Mean
+      - Upper Quartile
+      - Maximum
+      - Inner Quartile Range
+      - Large Outliers
+      - Small Outliers
+      - Standard Deviation
+      - Variance

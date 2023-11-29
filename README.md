@@ -63,4 +63,4 @@ To add just a little bit more math, each simulated match is 25,000 games, and th
   - Graphical Analysis
     - All graphs are comparing two features of numerical data in the spreadsheet. Everything said in the analytical analysis can be further verified or emphasized through the graphics.
 # Conclusion
-I hope you found this analysis informative. I am not trying to assign innocence or guilt to anybody. This was for informational purposes. I also used some machine learning algorithms to predict the number of 40 game win streaks Hikaru could expect to go on given all the other features. The results can be seen at the very bottom of the Chess Simulation Analysis.ipynb file or 
+I hope you found this analysis informative. I am not trying to assign innocence or guilt to anybody. This was for informational purposes. I also used some machine learning algorithms to predict the number of 40 game win streaks Hikaru could expect to go on given all the other features. The results can be seen at the very bottom of the Chess Simulation Analysis.ipynb file or in the file
